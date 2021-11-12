@@ -1,6 +1,6 @@
 # :fire: PANWAZII :fire:
-## :computer: Hello world, my name is Panwa.  
-## :mortar_board: I am studying Computer Science at Rangsit University.
+### :computer: Hello world, my name is Panwa.  
+### :mortar_board: I am studying Computer Science at Rangsit University.
 ### 🌱 I’m currently learning Front-End, Back-End, Network, DevOps & more
 ### :envelope: How to reach me 
   ==> [Facebook](https://www.facebook.com/PANWAZII/)<br>
