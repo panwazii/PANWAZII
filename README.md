@@ -1,6 +1,7 @@
-## Hi there ! 👋
+## PANWAZII
 ### Hello world, my name is Panwa. I am studying Computer Science at Rangsit University.
 
+##### - 🌱 I’m currently learning Front-End, Back-End, Network, DevOps & more
 <!--
 **PANWAZII/PANWAZII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
