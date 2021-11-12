@@ -4,7 +4,7 @@
 ### 🌱 I’m currently learning Front-End, Back-End, Network, DevOps & more
 ### 📫 How to reach me
 :point_right: [Facebook](https://www.facebook.com/PANWAZII/)<br>
---> [Instagram](https://www.instagram.com/panwazii/)<br>
+:point_right: [Instagram](https://www.instagram.com/panwazii/)<br>
 <!--
 **PANWAZII/PANWAZII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
