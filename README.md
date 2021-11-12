@@ -2,7 +2,7 @@
 ### :computer: Hello world, my name is Panwa.  
 ### :mortar_board: I am studying Computer Science at Rangsit University.
 ### 🌱 I’m currently learning Front-End, Back-End, Network, DevOps & more
-#### :envelope: How to reach me 
+## :envelope: How to reach me 
 &nbsp;&nbsp;&nbsp;&nbsp;  :point_right: [Facebook](https://www.facebook.com/PANWAZII/)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;  :point_right: [Instagram](https://www.instagram.com/panwazii/)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;  :point_right: [Email](panwa1379@gmail.com)<br>
