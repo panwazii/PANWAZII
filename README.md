@@ -1,4 +1,4 @@
-# PANWAZII
+# :computer: PANWAZII :computer:
 ## Hello world, my name is Panwa. I am studying Computer Science at Rangsit University :mortar_board:
 
 ### 🌱 I’m currently learning Front-End, Back-End, Network, DevOps & more
